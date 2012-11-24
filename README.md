@@ -5,8 +5,6 @@ a CSS absolute positioning tool
 
 * * * * 
 
-# // usage #
-
 add to your header
 
-    <script src=""></script>
+    <script src="https://raw.github.com/nbriz/divPlacer.js/master/divplacer.js"></script>
